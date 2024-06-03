@@ -200,7 +200,7 @@ _Tools and technologies to be used while developing this project._
 ## Team Composition and Requirements
 _An overview of the necessary personnel and skill requirements._
 
-To implement this project, a multidisciplinary team comprising backend developers, data analysts/data scientists, frontend developers, and UX designers will ideally be required. Each team member would play a critical role in ensuring that the end product not only meets functional requirements but also provides a superior user experience.
+To implement this project, a #multidisciplinary team comprising backend developers, data analysts/data scientists, frontend developers, and UX designers will ideally be required. Each team member would play a critical role in ensuring that the end product not only meets functional requirements but also provides a superior user experience.
 
 ---
 
