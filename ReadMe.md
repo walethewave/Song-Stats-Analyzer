@@ -11,7 +11,7 @@
 # Music Dashboard Insights and Data-Driven Decisions: A Story
 
 Imagine you're the head of a major music streaming platform. You've just received an email with an attachment from your data analysis team: a comprehensive music dashboard. Eager to understand the trends and make impactful decisions, you open the dashboard and begin exploring.
-
+..
 ## Chapter 1: The Reign of Ed Sheeran
 
 As you look at the bar chart titled "Sum of Views by Artist," it becomes immediately clear that Ed Sheeran is the king of views. His music has captivated audiences worldwide, amassing a staggering number of views. Following close behind are popular artists like CoComelon, Katy Perry, and Charlie Puth.
